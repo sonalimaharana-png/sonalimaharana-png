@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Girl Coding" width="400" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 ### 👨‍💻 About Me
 

@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Coding Girl" width="400" src="https://tenor.com/view/ika-musume-type-computer-hacking-gif-11543441">
+<img align="right" alt="Girl Coding" width="400" src="https://media.tenor.com/WA8H.gif">
 
 ### 👨‍💻 About Me
 
